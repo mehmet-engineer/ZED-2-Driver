@@ -1,0 +1,6 @@
+zstd
+cython
+numpy
+opencv-python
+pyopengl
+open3d
